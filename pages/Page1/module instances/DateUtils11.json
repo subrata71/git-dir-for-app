@@ -1,0 +1,97 @@
+{
+  "gitSyncId": "67763af51044a125d5f1b0ab_fb6b00e6-16ec-41c6-bc28-840952658ad5",
+  "id": "Page1_DateUtils11",
+  "moduleUUID": "fa07d449-cbda-4c4b-9875-ae3bc45cb883",
+  "packageUUID": "cf27e31e-9805-4380-8bb9-3c8fdf4bde37",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "addDaysToDate": "[]",
+      "formatDateToDDMMYYYY": "[]",
+      "getCurrentDate": "[]",
+      "getDayOfWeek": "[]",
+      "getDaysDifference": "[]",
+      "getFirstDayOfMonth": "[]",
+      "getLastDayOfMonth": "[]",
+      "isDateInFuture": "[]",
+      "isLeapYear": "[]",
+      "parseDateString": "[]"
+    },
+    "moduleInputs": {
+      "elcxjuvxms": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "elcxjuvxms",
+        "label": "getCurrentDate",
+        "propertyName": "inputs.getCurrentDate"
+      },
+      "fxcpraaqnp": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "fxcpraaqnp",
+        "label": "formatDateToDDMMYYYY",
+        "propertyName": "inputs.formatDateToDDMMYYYY"
+      },
+      "iqvupdupjl": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "iqvupdupjl",
+        "label": "isDateInFuture",
+        "propertyName": "inputs.isDateInFuture"
+      },
+      "jiuyqeyjuo": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "jiuyqeyjuo",
+        "label": "addDaysToDate",
+        "propertyName": "inputs.addDaysToDate"
+      },
+      "lwtlncuqtq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "lwtlncuqtq",
+        "label": "getFirstDayOfMonth",
+        "propertyName": "inputs.getFirstDayOfMonth"
+      },
+      "mhpezctkdo": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "mhpezctkdo",
+        "label": "isLeapYear",
+        "propertyName": "inputs.isLeapYear"
+      },
+      "ngieyhzxas": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ngieyhzxas",
+        "label": "parseDateString",
+        "propertyName": "inputs.parseDateString"
+      },
+      "oxhxkwdytn": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "oxhxkwdytn",
+        "label": "getDayOfWeek",
+        "propertyName": "inputs.getDayOfWeek"
+      },
+      "pohzbexeef": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "pohzbexeef",
+        "label": "getLastDayOfMonth",
+        "propertyName": "inputs.getLastDayOfMonth"
+      },
+      "zpnfpxndmj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "zpnfpxndmj",
+        "label": "getDaysDifference",
+        "propertyName": "inputs.getDaysDifference"
+      }
+    },
+    "name": "DateUtils11",
+    "pageId": "Page1",
+    "version": "0.0.3"
+  }
+}
